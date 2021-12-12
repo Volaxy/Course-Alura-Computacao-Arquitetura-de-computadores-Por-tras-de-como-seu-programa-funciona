@@ -1,0 +1,1 @@
+Na linguagem **Java**, ele primeiro compila o código fonte para um arquivo intermediário com a extensão *.class*, que é um **Byte Code**, depois ele passa por um Interpretador, que é a JVM.
