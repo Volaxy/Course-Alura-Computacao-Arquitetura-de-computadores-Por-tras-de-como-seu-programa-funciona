@@ -19,6 +19,8 @@ URL do curso -> [Arquitetura de computadores: Por trás de como seu programa fun
 * **ROM** - **R**ead-**O**nly **M**emory - Memória de Apenas Leitura.
 * **BIOS** - **B**asic **I**nput/**O**utput **S**ystem - Sistema Básico de Entrada/Saída.
 * **CPU** - **C**entral **P**rocess **U**nit - Unidade Central de Processamento.
+* **GPU** - **G**raphics **P**rocessing **U**nit - Placa de Vídeo.
+* **TPU** - **T**ensor **P**rocessing **U**nit - Unidade de Processamento de Tensores
 
 ## Atalhos
 
@@ -35,3 +37,9 @@ URL do curso -> [Arquitetura de computadores: Por trás de como seu programa fun
 * Como um programa em código de máquina é executado no computador;
 * A importância do clock do processador para a velocidade de processamento;
 * Que existem limitações de memória num computador e como criar programas eficientes para contornar esse problema.
+
+## 03 - Como um Computador Executa Vários Programas
+* As diversas otimizações feitas no processadores modernos, como pipelining e multi-core;
+* Como podemos nos comunicar com o computador por meio dos dispositivos de entrada e saída;
+* Como monitores e teclados funcionam;
+* Como o computador executa vários programas ao mesmo tempo por meio de multitasking.
