@@ -20,7 +20,9 @@ URL do curso -> [Arquitetura de computadores: Por trás de como seu programa fun
 * **BIOS** - **B**asic **I**nput/**O**utput **S**ystem - Sistema Básico de Entrada/Saída.
 * **CPU** - **C**entral **P**rocess **U**nit - Unidade Central de Processamento.
 * **GPU** - **G**raphics **P**rocessing **U**nit - Placa de Vídeo.
-* **TPU** - **T**ensor **P**rocessing **U**nit - Unidade de Processamento de Tensores
+* **TPU** - **T**ensor **P**rocessing **U**nit - Unidade de Processamento de Tensores.
+* **DRAM** - **D**ynamic **RAM** - RAM Dinâmica.
+* **SRAM** - **S**tatic **RAM** - RAM Estática.
 
 ## Atalhos
 
@@ -43,3 +45,9 @@ URL do curso -> [Arquitetura de computadores: Por trás de como seu programa fun
 * Como podemos nos comunicar com o computador por meio dos dispositivos de entrada e saída;
 * Como monitores e teclados funcionam;
 * Como o computador executa vários programas ao mesmo tempo por meio de multitasking.
+
+## 04 - Como a Memória Funciona
+* A função da memória cache para melhorar a performance do computador;
+* Como as memórias de um computador são divididas de forma hierárquica;
+* O que é o princípio da localidade;
+* Qual a diferença entre processadores 32 e 64 bits, e qual é o impacto disso na hora de escolher o instalador de um programa.

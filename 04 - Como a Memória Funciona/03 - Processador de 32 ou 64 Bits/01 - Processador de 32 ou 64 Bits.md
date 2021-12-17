@@ -1,0 +1,3 @@
+O processador tem os registradores que guardará os valores atuais, caso o PC tenha um processador de 32 bits, cada sequência terá um tamanho de 32 bits, logo as instruções serão diferentes de um PC com 64 bits.
+
+Um processador de 64 bits possui mais performace, processando mais dados de uma vez, possui otimizações mais complexas durante o processamento. Caso um computador tenha um processador de 32 bits, o maior endereço de memória que ele consegue referenciar na RAM é de *2^32 - 1 (4GB)*. Já o de 64 bits, consegue representar *2^64 - 1 (16 Bilhões de GB)*.
