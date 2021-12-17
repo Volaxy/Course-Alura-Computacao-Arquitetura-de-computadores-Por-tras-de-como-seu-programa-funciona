@@ -23,6 +23,7 @@ URL do curso -> [Arquitetura de computadores: Por trás de como seu programa fun
 * **TPU** - **T**ensor **P**rocessing **U**nit - Unidade de Processamento de Tensores.
 * **DRAM** - **D**ynamic **RAM** - RAM Dinâmica.
 * **SRAM** - **S**tatic **RAM** - RAM Estática.
+* **ASCII** - **A**merican **S**tandard **C**ode for **I**nformation **I**nterchange - Código Padrão Americano para o Intercâmbio de Informação.
 
 ## Atalhos
 
@@ -51,3 +52,10 @@ URL do curso -> [Arquitetura de computadores: Por trás de como seu programa fun
 * Como as memórias de um computador são divididas de forma hierárquica;
 * O que é o princípio da localidade;
 * Qual a diferença entre processadores 32 e 64 bits, e qual é o impacto disso na hora de escolher o instalador de um programa.
+
+## 05 - Como os Dados são Armazenados
+* Como números inteiros, caracteres, listas e números decimais são armazenados na memória;
+* O que são os formatos ASCII, Latin1, Unicode e qual sua relação com o UTF-8;
+* A importância do contexto para o computador entender os dados que estão guardados na memória;
+* Passagem de parâmetros por valor e por referência;
+* Quais são os problemas inerentes aos números de ponto flutuante.
