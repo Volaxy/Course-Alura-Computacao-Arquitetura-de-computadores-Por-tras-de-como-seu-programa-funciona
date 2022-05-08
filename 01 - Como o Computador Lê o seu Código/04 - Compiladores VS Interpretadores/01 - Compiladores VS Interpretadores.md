@@ -19,6 +19,6 @@
     * Python;
     * Ruby;
 
-![Compiladores vs Interpretadores](https://raw.githubusercontent.com/Volaxy/Course-Alura-Computacao-Arquitetura-de-computadores-Por-tras-de-como-seu-programa-funciona/master/Imagens/01-04-Compiladores_vs_Interpretadores.png)
+![Compiladores vs Interpretadores](https://raw.githubusercontent.com/Volaxy/Course-Alura-Computacao-Arquitetura-de-computadores-Por-tras-de-como-seu-programa-funciona/master/Images/01/04-Compiladores_vs_Interpretadores.png)
 
 Uma mesma linguagem pode ter tanto um **Compilador** quanto um **Interpretador**.

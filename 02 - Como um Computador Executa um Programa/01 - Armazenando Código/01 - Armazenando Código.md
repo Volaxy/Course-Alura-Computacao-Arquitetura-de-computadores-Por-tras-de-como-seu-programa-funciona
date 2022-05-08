@@ -1,6 +1,9 @@
 A Memória Não Volátil guarda informação mesmo quando ela estiver desligada.
 
 O **HD** funciona com um disco magnético dentro dele, juntamente com uma agulha que serve tanto para ler os dados como para gravar dados.
+
+![HDD](https://raw.githubusercontent.com/Volaxy/Course-Alura-Computacao-Arquitetura-de-computadores-Por-tras-de-como-seu-programa-funciona/master/Images/02/01-HDD.png)
+
 **Vantagens**:
 * Grande Capacidade: É útil para armazenar grandes quantidades de dados, como TB.
 * Barato: O preço no mercado é relativamente barato.
@@ -10,6 +13,9 @@ O **HD** funciona com um disco magnético dentro dele, juntamente com uma agulha
 * Frágil: O fato de ter uma agulha e um disco magnético faz com que o transporte do computador em que está inserido possa comprometer a vida útil do HD, fazendo a agulha arranhar o disco por exemplo.
 
 O **SSD** é formado por chips eletrônicos, e é bem parecido com as tecnologias de Pendrive's e USB's.
+
+![SSD](https://raw.githubusercontent.com/Volaxy/Course-Alura-Computacao-Arquitetura-de-computadores-Por-tras-de-como-seu-programa-funciona/master/Images/02/01-SSD.png)
+
 **Vantagens**:
 * Menores: Conseguem armazenar uma quantidade grande de informação em um espaço bem pequeno.
 * Rápido: O fato de não ter um fator mecânico de funcionamento, torna ele bem mais rápido na questão de ler e escrever dados dentro dele.

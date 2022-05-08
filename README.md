@@ -64,6 +64,22 @@ URL do curso -> [Arquitetura de computadores: Por trás de como seu programa fun
 * A importância do clock do processador para a velocidade de processamento;
 * Que existem limitações de memória num computador e como criar programas eficientes para contornar esse problema.
 
+### 01 - Armazenando Código
+* Diferenças entre linguagens compiladas e interpretadas.
+
+### 02 - Memória RAM
+* Como a memória RAM funciona.
+* Para que serve a memória RAM.
+
+### 03 - Funcionamento do Processador
+* A divisão de tarefas dentro de um **Processador**.
+* Como um **Processador** processa as informações.
+
+### 04 - Executando Código
+* Passo a passo do funcionamento de um *Processador*.
+* Função do **contador** no Processador.
+* O que é **clock**.
+
 ***
 
 ## 03 - Como um Computador Executa Vários Programas &#x1F516;
