@@ -88,6 +88,17 @@ URL do curso -> [Arquitetura de computadores: Por trás de como seu programa fun
 * Como monitores e teclados funcionam;
 * Como o computador executa vários programas ao mesmo tempo por meio de multitasking.
 
+### 01 - Lei de Moore
+* O que é a **Lei de Moore**.
+* Como aumentar o poder de processamento.
+
+### 02 - Entrada e Saída
+* O que é um **Pixel**.
+* Como o teclado funciona.
+
+### 03 - Placa de Vídeo
+* História das placas de vídeo.
+
 ***
 
 ## 04 - Como a Memória Funciona &#x1F516;
