@@ -107,6 +107,20 @@ URL do curso -> [Arquitetura de computadores: Por trás de como seu programa fun
 * O que é o princípio da localidade;
 * Qual a diferença entre processadores 32 e 64 bits, e qual é o impacto disso na hora de escolher o instalador de um programa.
 
+### 01 - Cache - Trazer para Perto
+* O que é **DRAM**.
+* O que é **SRAM**.
+* Como funciona o **cache** do processador.
+* Como o cache funciona nos navegadores.
+
+### 02 - Hierarquia de Memória
+* Como funciona a hierarquia das memórias.
+* Princípio da Localidade.
+
+### 03 - Processador de 32 ou 64 Bits
+* Diferença entre um processador de 32 Bits e 64 Bits.
+* Vantagens do Processador de 64 Bits.
+
 ***
 
 ## 05 - Como os Dados são Armazenados &#x1F516;
