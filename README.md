@@ -129,3 +129,16 @@ URL do curso -> [Arquitetura de computadores: Por trás de como seu programa fun
 * A importância do contexto para o computador entender os dados que estão guardados na memória;
 * Passagem de parâmetros por valor e por referência;
 * Quais são os problemas inerentes aos números de ponto flutuante.
+
+### 01 - Números Inteiros
+* Como os números inteiros são representados através dos Bytes.
+
+### 02 - Cracteres
+* O que é a tabela **ASCII**.
+* O que é o **UTF-8**.
+
+### 03 - Listas
+* Como funciona o endereço de memória para listas no computador.
+
+### 04 - Números de Ponto Flutuante
+* Erro do número com ponto flutuante.
